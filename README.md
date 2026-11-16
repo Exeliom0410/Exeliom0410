@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Realidad Virtual y Diseño de
 Juegos Digitales (UBO). Desarrollo experiencias VR en Unity
 y C#.
 ## Proyecto destacado
-- [Videojuego plataformas combate]([(https://hell-team.itch.io/hell-breezer)]) · jugable en el navegador
+- [Videojuego plataformas combate](https://hell-team.itch.io/hell-breezer) · jugable en el navegador
 ## Herramientas
 Unity · C# · Blender · Git
 ## Contacto
