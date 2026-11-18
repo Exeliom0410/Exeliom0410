@@ -7,4 +7,4 @@ Juegos Digitales (UBO). Desarrollo experiencias VR en Unity y C#
 ## Herramientas
 Unity · C# · Blender · Git
 ## Contacto
-[LinkedIn](https://linkedin.com/in/jorge-gutierrez-b693b62b7/) · [correo:jorge.gutierrez.leiva.1928@gmail.com] · [portafolio](https://exeliom0410.github.io/Portafolios_Jorge_Gutierrez/)
+[LinkedIn](https://linkedin.com/in/jorge-gutierrez-b693b62b7/) · [correo: jorge.gutierrez.leiva.1928@gmail.com] · [portafolio](https://exeliom0410.github.io/Portafolios_Jorge_Gutierrez/)
